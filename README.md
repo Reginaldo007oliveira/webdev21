@@ -2,8 +2,7 @@
 <p align="center">Projeto desenvolvido por Reginaldo Oliveira</p>
 <p align="center">Preview: https://netlify.app/</p>
 <img src="./tela1.png">
-<img src="./apple-fun2.png">
-<img src="./apple-fun3.png">
+
 
 📖 - Projeto para o Desafio 2 do #hiringcoders, com o intúito de desenvolver um sistema de E-commerce, que guarde dados de clientes, endereços, produtos, devidamente
 estruturados no localstorage. Para este projeto, foi desenvolvido uma loja da Core Biz que possui sistema de carrinho com os produtos que estão cadastrados na Api.
