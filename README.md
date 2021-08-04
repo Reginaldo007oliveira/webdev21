@@ -28,6 +28,9 @@ git clone https://github.com/reginaldo007oliveira
 - Instale os pacotes com npm i
 - Inicie o server com yarn run server
 - Rode a aplicação com yarn start
+- 
+- usei uma rota singular para aparecer os produtos da api
+- /products/?productId=idDoProduto no useCart.tsx 
 
 <h2>📝 Licença</h2>
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
