@@ -30,7 +30,9 @@ git clone https://github.com/Reginaldo007oliveira/webdev21.git
 - 
 - usei uma rota singular para aparecer os produtos da api
 - /products/?productId=idDoProduto no useCart.tsx 
+- http://localhost:3333/products?productId=2
 - Para rodar no servidor use 'https://corebiz-test.herokuapp.com/api/v1/ sem o products
+- 
 
 <h2>📝 Licença</h2>
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
