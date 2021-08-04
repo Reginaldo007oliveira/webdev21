@@ -21,8 +21,7 @@ estruturados no localstorage. Para este projeto, foi desenvolvido uma loja da Co
 - Fake-Api
 
 <h2>Para iniciar o projeto use: </h2>
-git clone https://github.com/reginaldo007oliveira
-
+git clone https://github.com/Reginaldo007oliveira/webdev21.git
 <h2>Para iniciar a aplicação:</h2>
 
 - Instale os pacotes com npm i
