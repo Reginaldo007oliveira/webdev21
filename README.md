@@ -24,7 +24,7 @@ estruturados no localstorage. Para este projeto, foi desenvolvido uma loja da Co
 git clone https://github.com/Reginaldo007oliveira/webdev21.git
 <h2>Para iniciar a aplicação:</h2>
 
-- Instale os pacotes com npm i
+- Instale os pacotes com npm install
 - Inicie o server com yarn run server
 - Rode a aplicação com yarn start
 - 
