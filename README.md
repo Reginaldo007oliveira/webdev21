@@ -9,9 +9,9 @@ estruturados no localstorage.
 Para este projeto, foi desenvolvido uma loja da CoreBiz que possui sistema de carrinho com os produtos que estão cadastrados na Api.
 
 📖 - FakeApi CoreBiz
-https://corebiz-test.herokuapp.com/api/v1/products
 
-📖 - <a href="https://github.com/reginaldo007oliveira">Link do Repositório da FakeApi</a>
+
+📖 - <a href="https://corebiz-test.herokuapp.com/api/v1/products">Link do Repositório da FakeApi</a>
 
 <h2>🚀 Tecnologias utilizadas: </h2>
 
