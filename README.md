@@ -4,10 +4,12 @@
 <img src="./tela1.png">
 
 
-📖 - Projeto para o Desafio 2 do #hiringcoders, com o intúito de desenvolver um sistema de E-commerce, que guarde dados de clientes, endereços, produtos, devidamente
-estruturados no localstorage. Para este projeto, foi desenvolvido uma loja da Core Biz que possui sistema de carrinho com os produtos que estão cadastrados na Api.
+📖 - Projeto para o desafio CoreBiz, com o intúito de desenvolver um sistema de E-commerce, que guarde dados de clientes, endereços, produtos, devidamente
+estruturados no localstorage. 
+Para este projeto, foi desenvolvido uma loja da CoreBiz que possui sistema de carrinho com os produtos que estão cadastrados na Api.
 
-📖 - FakeApi CoreBiz 
+📖 - FakeApi CoreBiz
+https://corebiz-test.herokuapp.com/api/v1/products
 
 📖 - <a href="https://github.com/reginaldo007oliveira">Link do Repositório da FakeApi</a>
 
@@ -19,7 +21,7 @@ estruturados no localstorage. Para este projeto, foi desenvolvido uma loja da Co
 - React
 - Styled Components
 - Fake-Api
-
+Link da aplicação no Netlify  https://mystifying-archimedes-836346.netlify.app/
 <h2>Para iniciar o projeto use: </h2>
 git clone https://github.com/Reginaldo007oliveira/webdev21.git
 <h2>Para iniciar a aplicação:</h2>
